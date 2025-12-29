@@ -11,5 +11,5 @@ elif late > 5:
 if absent > 2:
     deduction += 5
 
-final_salary = salary - (salary * deduction / 100)
+final_salary = salary - (salary * deduction / 100)wq
 print(int(final_salary))
