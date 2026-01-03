@@ -1,5 +1,5 @@
 salary = int(input("enter salary:"))
-late = int(input("enter late days:"))
+late = int(input("enter late commers:"))
 absent = int(input("enter absent days:"))
 
 deduction = 0
